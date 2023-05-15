@@ -1,0 +1,19 @@
+.ticket{
+    border: dashed black 0.5rem;
+    margin: 5rem;
+    padding: 3rem;
+    background-color:antiquewhite;
+    font-size: 2rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    font-weight: 800;
+    text-align: center;
+}
+
+#price{
+    margin-left: 60rem;
+    background-color: red;
+    font-size: 2.5rem;
+}
