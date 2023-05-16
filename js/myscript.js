@@ -23,8 +23,12 @@ OKay.addEventListener('click', function() {
         result = parseFloat(Price).toFixed(2) ;
     };
     
-    document.getElementById("price").innerHTML = "Prezzo = " + result + "£";
+    
+    
+    document.getElementById("price").innerHTML = "Price = " + result + "£";
 
     let FirstSpan = document.querySelector("span");
     FirstSpan.classList.add("red")
+
+    
 });
